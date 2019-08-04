@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://anchorsail.github.io/"/>
-  <updated>2019-08-04T10:35:54.193Z</updated>
+  <updated>2019-08-04T14:04:28.288Z</updated>
   <id>https://anchorsail.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>人工智能自学手册</title>
+    <link href="https://anchorsail.github.io/2019/08/04/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%87%AA%E5%AD%A6%E6%89%8B%E5%86%8C/"/>
+    <id>https://anchorsail.github.io/2019/08/04/人工智能自学手册/</id>
+    <published>2019-08-04T14:02:09.337Z</published>
+    <updated>2019-08-04T14:04:28.288Z</updated>
+    
+    <content type="html"><![CDATA[<p>从今天起，写一本零基础入门人工智能的自学手册。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;从今天起，写一本零基础入门人工智能的自学手册。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
